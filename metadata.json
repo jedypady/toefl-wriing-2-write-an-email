@@ -1,0 +1,5 @@
+{
+  "name": "TOEFL: Timed Email Writing & Scoring Assistant",
+  "description": "An interactive application where users can write an email based on a prompt within a 7-minute time limit. After writing, the application uses Gemini to score the email against a detailed rubric and provides feedback.",
+  "requestFramePermissions": []
+}
